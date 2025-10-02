@@ -2,8 +2,8 @@
 
 A sleek terminal-based file explorer. Navigate your files and folders easily with a simple TUI interface, all while enjoying a cute cat-themed aesthetic.
 
-<img width="1477" height="743" alt="kittyfs1" src="https://github.com/user-attachments/assets/04c3b51a-f66e-46b0-974e-40742a5e43db" />
-<img width="1463" height="748" alt="kittyfs2" src="https://github.com/user-attachments/assets/eb17f348-7cbb-4ca3-880c-d98bcefc9621" />
+<img width="592" height="300" alt="kittyfs1" src="https://github.com/user-attachments/assets/b0966b22-575c-45d5-aff0-b175a8093bda" />
+<img width="592" height="300" alt="kittyfs2" src="https://github.com/user-attachments/assets/eb17f348-7cbb-4ca3-880c-d98bcefc9621" />
 
 
 ## Installation

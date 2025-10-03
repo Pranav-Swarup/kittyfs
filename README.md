@@ -8,10 +8,10 @@ A sleek terminal-based file explorer. Navigate your files and folders easily wit
 
 ## Installation
 
-### Windows
+### Windows | Linux
 
-1. Download the installer (`KittyFS_Installer.exe`) from the [Releases](https://github.com/Pranav-Swarup/kittyfs/releases) page.
-2. Run the installer by clicking on it.
+1. Download the installer from the [Releases](https://github.com/Pranav-Swarup/kittyfs/releases) page.
+2. Run the installer by following the steps given there.
 3. Launch KittyFS from the Start Menu or Desktop shortcut.
 
 ### Mac-OS
